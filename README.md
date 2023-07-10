@@ -16,6 +16,7 @@ Note: the trailing forward-slash `/` in `MLRUN_DOCKER_REGISTRY`'s value is signi
 
 Examples:
 
+
 | Command  | Resulting Docker image name |
 | ----- | ----------- |
 | `npm run docker` | `mlrun/mlrun-ui:latest` |
